@@ -1,0 +1,1 @@
+Reproducer for https://github.com/swaldman/c3p0/issues/188
